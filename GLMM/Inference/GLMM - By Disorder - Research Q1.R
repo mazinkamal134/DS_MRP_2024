@@ -1,4 +1,4 @@
-# Q1: Does listening to music have a positive effect on individuals with mental health disorders, such as reducing levels of stress?
+# Q1: Does listening to music have a positive impact on individuals with mental health disorders, such as reducing levels of stress?
 
 ############## Anxiety ###############
 # Read
