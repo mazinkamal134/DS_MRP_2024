@@ -1,4 +1,4 @@
-# Q2: How does the act of listening to music, along with demographic factors such as gender, age, and level of education, influence the levels of stress?
+# Q2: How does the act of listening to music, along with demographic factors such as gender, age, and level of education, influence the stress levels?
 
 ############## Anxiety ###############
 # Read & filter
