@@ -34,7 +34,7 @@ The repository is organized into the following directories and files:
 
 ## Data
 
-The datasets used in this project are publicly available on [Google Drive]((https://drive.google.com/drive/folders/1Ni3iWq8J8_FUIZQ99uq2eEnPyd8mOdKC?usp=sharing)). Due to their size, they are not included in this repository.
+The datasets used in this project are publicly available on [Google Drive](https://drive.google.com/drive/folders/1Ni3iWq8J8_FUIZQ99uq2eEnPyd8mOdKC?usp=sharing). Due to their size, they are not included in this repository.
 
 ## Usage
 
